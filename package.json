@@ -1,10 +1,7 @@
 {
-  "name": "rate-predictor",
-  "version": "1.0.0",
-  "scripts": {
-    "start": "vercel dev"
-  },
-  "dependencies": {
-    "@tensorflow/tfjs-node": "^4.10.0"
+  "functions": {
+    "api/*.js": {
+      "runtime": "nodejs18.x"
+    }
   }
 }

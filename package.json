@@ -7,10 +7,11 @@
       "start": "next start"
     },
     "dependencies": {
-      "@tensorflow/tfjs-node": "^4.10.0",
-      "next": "latest",
-      "react": "latest",
-      "react-dom": "latest"
-    }
+  "@tensorflow/tfjs": "^4.10.0",
+  "next": "latest",
+  "react": "latest",
+  "react-dom": "latest"
+}
+
   }
   

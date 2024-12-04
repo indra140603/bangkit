@@ -1,0 +1,16 @@
+{
+    "name": "currency-converter",
+    "version": "1.0.0",
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start"
+    },
+    "dependencies": {
+      "@tensorflow/tfjs-node": "^4.10.0",
+      "next": "latest",
+      "react": "latest",
+      "react-dom": "latest"
+    }
+  }
+  
